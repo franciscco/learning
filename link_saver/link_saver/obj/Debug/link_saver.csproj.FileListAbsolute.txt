@@ -1,0 +1,10 @@
+C:\Users\franz\git_projects\learning\link_saver\link_saver\bin\Debug\link_saver.exe.config
+C:\Users\franz\git_projects\learning\link_saver\link_saver\bin\Debug\link_saver.exe
+C:\Users\franz\git_projects\learning\link_saver\link_saver\bin\Debug\link_saver.pdb
+C:\Users\franz\git_projects\learning\link_saver\link_saver\obj\Debug\link_saver.csprojAssemblyReference.cache
+C:\Users\franz\git_projects\learning\link_saver\link_saver\obj\Debug\link_saver.Form1.resources
+C:\Users\franz\git_projects\learning\link_saver\link_saver\obj\Debug\link_saver.Properties.Resources.resources
+C:\Users\franz\git_projects\learning\link_saver\link_saver\obj\Debug\link_saver.csproj.GenerateResource.cache
+C:\Users\franz\git_projects\learning\link_saver\link_saver\obj\Debug\link_saver.csproj.CoreCompileInputs.cache
+C:\Users\franz\git_projects\learning\link_saver\link_saver\obj\Debug\link_saver.exe
+C:\Users\franz\git_projects\learning\link_saver\link_saver\obj\Debug\link_saver.pdb
