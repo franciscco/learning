@@ -70,6 +70,7 @@
             this.url_textbox.Name = "url_textbox";
             this.url_textbox.Size = new System.Drawing.Size(100, 20);
             this.url_textbox.TabIndex = 3;
+            this.url_textbox.TextChanged += new System.EventHandler(this.url_textbox_TextChanged);
             // 
             // organization_textbox
             // 
@@ -82,17 +83,18 @@
             // 
             this.tags_textbox.Location = new System.Drawing.Point(336, 75);
             this.tags_textbox.Name = "tags_textbox";
-            this.tags_textbox.Size = new System.Drawing.Size(100, 20);
+            this.tags_textbox.Size = new System.Drawing.Size(313, 20);
             this.tags_textbox.TabIndex = 5;
             // 
             // save
             // 
-            this.save.Location = new System.Drawing.Point(442, 73);
+            this.save.Location = new System.Drawing.Point(655, 73);
             this.save.Name = "save";
             this.save.Size = new System.Drawing.Size(75, 23);
             this.save.TabIndex = 6;
             this.save.Text = "Save";
             this.save.UseVisualStyleBackColor = true;
+            this.save.Click += new System.EventHandler(this.save_Click);
             // 
             // Form1
             // 
